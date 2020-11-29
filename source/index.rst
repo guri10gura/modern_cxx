@@ -12,6 +12,7 @@ modern_cxx
 
    contents/00_list.rst
    contents/00_others.rst
+   contents/00_glossary.rst
    contents/chapter1.rst
    contents/chapter2.rst
    contents/chapter3.rst
